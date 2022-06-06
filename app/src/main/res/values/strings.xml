@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="label_city_name_entry">Enter your city name</string>
+    <string name="hint_city_name_entry">Enter city name</string>
+    <string name="button_submit_city_name">Submit city name</string>
+    <string name="city_name_entry_error">Please enter valid city name</string>
+    <string name="label_location_error">Enter CITY Name to see forecast</string>
+    <string name="label_forecast_request_error_city_name_not_found">The entered city name does not exist</string>
+    <string name="label_forecast_request_error">An unexpected error has occurred. Please try again later</string>
+
+    <string name="temp_display_setting_title">Display Units</string>
+    <string name="temp_display_setting_dialog_title">Choose Display Units</string>
+    <string name="temp_display_setting_dialog_message">Choose which temperature unit to use for temperature display</string>
+    <string name="temp_display_setting_dialog_dismiss_message">Setting will take affect on app restart</string>
+
+    <string name="bottom_nav_label_today">Today</string>
+    <string name="bottom_nav_label_weekly">Weekly</string>
+
+    <string name="language_code">en</string>
+    <string name="date_format">MM-dd-yyyy</string>
+
+</resources>
